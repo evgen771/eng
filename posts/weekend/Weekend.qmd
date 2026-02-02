@@ -1,7 +1,7 @@
 ---
-title: "Выходной день"
+title: "Лексика на тему Weekend (выходные)"
 date: "2024-05-06"
-categories: [news, conversation]
+categories: [news, calendar]
 page-layout: full
 title-block-banner: false
 toc: true
