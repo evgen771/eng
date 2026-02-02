@@ -1,7 +1,7 @@
 ---
 title: "100 прилагательных"
 date: "2026-02-02"
-categories: [news, adjective]
+categories: [news, other]
 page-layout: full
 title-block-banner: false
 toc: true
