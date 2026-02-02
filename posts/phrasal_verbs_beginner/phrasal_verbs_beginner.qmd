@@ -5,7 +5,7 @@ categories: [news, phrasal_verbs]
 page-layout: full
 title-block-banner: false
 toc: true
-image: ".jpg"
+image: "phrasal_verbs_beginner.jpg"
 ---
 
 be off — уходить
