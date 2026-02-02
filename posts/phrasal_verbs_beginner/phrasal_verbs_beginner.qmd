@@ -1,5 +1,5 @@
 ---
-title: "Фразовые глаголы.Для начинающего"
+title: "Фразовые глаголы. Для начинающего"
 date: "2026-02-01"
 categories: [news, phrasal_verbs]
 page-layout: full
