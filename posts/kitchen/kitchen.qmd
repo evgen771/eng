@@ -1,7 +1,7 @@
 ---
 title: "кухня, продукты, посуда"
 date: "2024-06-05"
-categories: [news, dict]
+categories: [news, food]
 page-layout: full
 title-block-banner: false
 toc: true
