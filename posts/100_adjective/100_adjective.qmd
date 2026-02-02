@@ -1,7 +1,7 @@
 ---
 title: "100 прилагательных"
-date: "2026-02-01"
-categories: [news, other]
+date: "2026-02-02"
+categories: [news, adjective]
 page-layout: full
 title-block-banner: false
 toc: true
@@ -9,16 +9,25 @@ image: "100_adjective.jpg"
 ---
 
 
-| 1   | able [‘eibl]             | способный                     |
-| 2   | alone [ə’ləun]           | единственный                  |
-| 3   | bad [bæd]                | плохой                        |
-| 4   | beautiful [‘bju:tɪf(ə)l] | красивый, прекрасный          |
-| 5   | big [big]                | большой                       |
-| 6   | black [blæk]             | черный                        |
-| 7   | blue [bluː]              | синий, голубой                |
-| 8   | bright [braɪt]           | яркий                         |
-| 9   | brown [braʊn]            | коричневый                    |
-| 10  | clean [kli:n]            | чистый                        |
+able [‘eibl]              способный                     
+
+alone [ə’ləun]            единственный                  
+
+bad [bæd]                плохой                        
+
+beautiful [‘bju:tɪf(ə)l]  красивый, прекрасный          
+
+big [big]                 большой                       
+
+black [blæk]              черный                        
+
+ blue [bluː]               синий, голубой                
+
+bright [braɪt]            яркий                         
+
+brown [braʊn]           коричневый      
+              
+| clean [kli:n]            | чистый                        |
 | 11  | clever [ˈklevə]          | умный                         |
 | 12  | cold [kəuld]             | холодный                      |
 | 13  | dangerous [ˈdeɪnʤərəs]   | опасный                       |

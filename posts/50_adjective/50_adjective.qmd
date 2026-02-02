@@ -1,7 +1,7 @@
 ---
 title: "50 прилагательных"
-date: "2026-02-01"
-categories: [news, other]
+date: "2026-02-02"
+categories: [news, adjective]
 page-layout: full
 title-block-banner: false
 toc: true
@@ -9,16 +9,26 @@ image: "50_adjective.jpg"
 ---
 
 
-| 1   | good [gud]         | хороший                 |
-| 2   | little [‘litl]     | маленький               |
-| 3   | old [əuld]         | старый                  |
-| 4   | young [jʌŋ]        | молодой, юный           |
-| 5   | new [nju:]         | новый                   |
-| 6   | white [wait]       | белый                   |
-| 7   | great [greit]      | большой, великий        |
-| 8   | light [laɪt]       | светлый, легкий         |
-| 9   | long [lɔŋ]         | длинный                 |
-| 10  | last [la:st]       | последний               |
+good [gud]          хороший                 
+
+little [‘litl]      маленький               
+
+old [əuld]          старый                  
+
+young [jʌŋ]         молодой, юный           
+
+new [nju:]          новый                   
+
+white [wait]        белый                   
+
+great [greit]       большой, великий        
+
+light [laɪt]        светлый, легкий         
+
+long [lɔŋ]          длинный                 
+
+last [la:st]        последний               
+
 | 11  | small [smɔ:l]      | маленький               |
 | 12  | black [blæk]       | чёрный                  |
 | 13  | dear [diə]         | дорогой, милый, любимый |
