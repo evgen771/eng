@@ -1,0 +1,40 @@
+---
+title: "Животные - Animals"
+date: "2026-02-03"
+categories: [news, animals]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "animals.jpg"
+---
+
+
+Dog (собака) - Транскрипция: /dɒɡ/ 
+
+Cat (кошка) - Транскрипция: /kæt
+
+Bird (птица) - Транскрипция: /bɜːrd/
+
+Fish (рыба) - Транскрипция: /fɪʃ/
+
+Bee (муравей) - Транскрипция: /biː/
+
+Butterfly (бабочка) - Транскрипция: /ˈbʌtəflaɪ/
+
+Snake (змея) - Транскрипция: /sneɪk/
+
+Lion (лев) - Транскрипция: /ˈlaɪən/
+
+Tiger (тигр) - Транскрипция: /ˈtaɪɡər/
+
+Elephant (слон) - Транскрипция: /ˈelɪfənt/
+
+Monkey (обезьяна) - Транскрипция: /ˈmʌŋki/
+
+Penguin (пингвин) - Транскрипция: /ˈpɛnɡwɪn/
+
+Dolphin (дельфин) - Транскрипция: /ˈdɒlfɪn/
+
+Giraffe (жираф) - Транскрипция: /dʒəˈrɑːf/
+
+Panda (панда) - Транскрипция: /ˈpændə/

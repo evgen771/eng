@@ -1,0 +1,72 @@
+---
+title: "Домашние животные - Pets"
+date: "2026-02-03"
+categories: [news, animals]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "pets.jpg"
+---
+
+
+cat [kæt] — кошка
+   
+kitten [ˈkɪtən] — котёнок
+  
+dog [dɒɡ] — собака
+    
+puppy [ˈpʌpi] — щенок
+   
+goldfish [ˈɡəʊldfɪʃ] — золотая рыбка
+    
+rabbit [ˈræbɪt] — кролик
+  
+guinea pig [ˈɡɪni ˌpɪɡ] — морская свинка
+    
+turtle [ˈtɜːtəl] — черепаха
+   
+hamster [ˈhæmstər] — хомяк
+  
+chinchilla [ʧɪnˈʧɪlə] — шиншилла
+   
+ rat [ræt] — крыса
+  
+ferret [ˈferɪt] — хорёк
+   
+canary [kəˈneəri] — канарейка
+
+#### Дикие животные - Wild animals 
+
+tiger [ˈtaɪɡə] — тигр
+    
+elephant [ˈelɪfənt] — слон
+    
+lion [ˈlaɪən] — лев
+   
+giraffe [dʒɪˈrɑːf] — жираф
+   
+zebra [ˈziːbrə] — зебра
+  
+kangaroo [kæŋɡəˈruː] — кенгуру
+    
+panther [ˈpænθə] — пантера
+  
+panda [ˈpændə] — панда
+ 
+polar bear [ˈpəʊlə ˈbeə] — белый медведь
+   
+cheetah [ˈʧiːtə] — гепард
+ 
+monkey [ˈmʌŋki] — обезьяна
+  
+gorilla [ɡəˈrɪlə] — горилла
+ 
+camel [ˈkæməl] — верблюд
+
+rhino [ˈraɪnəʊ] — носорог
+  
+hippopotamus [hɪpəˈpɔtəməs] — гиппопотам
+ 
+crocodile [ˈkrɔkədaɪl] — крокодил
+  
+snake [sneɪk] — змея

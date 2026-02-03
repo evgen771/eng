@@ -1,0 +1,29 @@
+---
+title: "Экзотические животные - Exotic animals"
+date: "2026-02-03"
+categories: [news, animals]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "exotic_animals.jpg"
+---
+
+meerkat [ˈmɪərkæt] — сурикат
+   
+lemur [ˈlemər] — лемур
+    
+platypus [ˈplætɪpəs] — утконос
+    
+sloth [slɒθ] — ленивец
+ 
+chameleon [kəˈmiːliən] — хамелеон
+   
+peacock [ˈpiːkɒk] — павлин
+
+toucan [ˈtuːkæn] — тукан
+   
+quokka [ˈkwɒkə] — квокка
+  
+capybara [ˌkæpɪˈbɑːrə] — капибара
+   
+komodo dragon [ˈkɒmədəʊ ˈdræɡən] — комодский варан

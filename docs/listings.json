@@ -2,6 +2,16 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/animals/animals.html",
+      "/posts/animals.feline_family/animals.feline_family.html",
+      "/posts/animals.fish_and_mammals/animals.fish_and_mammals.html",
+      "/posts/animals_birds/animals_birds.html",
+      "/posts/animals_farm/animals_farm.html",
+      "/posts/animals_forest/animals_forest.html",
+      "/posts/animals_mythical/animals_mythical.html",
+      "/posts/animals_pets/animals_pets.html",
+      "/posts/animals_sea/animals_sea.html",
+      "/posts/exotic_animals/animals_exotic.html",
       "/posts/100_adjective/100_adjective.html",
       "/posts/100_words/100_words.html",
       "/posts/200_words/200_words.html",

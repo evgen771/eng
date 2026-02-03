@@ -1,0 +1,28 @@
+---
+title: "Птицы - Birds"
+date: "2026-02-03"
+categories: [news, animals]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "birds.jpg"
+---
+
+
+sparrow [ˈspærəʊ] — воробей
+   
+crow [krəʊ] — ворон
+   
+eagle [ˈiːɡəl] — орёл
+    
+parrot [ˈpærət] — попугай
+    
+penguin [ˈpeŋɡwɪn] — пингвин
+ 
+hummingbird [ˈhʌmɪŋbɜːd] — колибри 
+   
+falcon [ˈfɔːlkən] — сокол
+    
+swan [swɒn] — лебедь
+    
+woodpecker [ˈwʊdpekə] — дятел

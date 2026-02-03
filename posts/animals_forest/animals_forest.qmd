@@ -1,0 +1,39 @@
+---
+title: "Лесные животные - Forest animals"
+date: "2026-02-03"
+categories: [news, animals]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "forest_animals.jpg"
+---
+
+
+fox [fɒks] — лиса
+    
+deer [dɪə] — олень
+   
+bear [beə] — медведь
+   
+squirrel [ˈskwɪrəl] — белка
+   
+owl [aʊl] — сова
+  
+wolf [wʊlf] — волк
+   
+raccoon [rəˈkuːn] — енот;
+   
+hedgehog [ˈhedʒhɒɡ] — ёж
+
+   
+lynx [lɪŋks] — рысь
+
+beaver [ˈbiːvə] — бобр  
+  
+wild boar [waɪld bɔː] — кабан
+
+frog [frɒɡ] — лягушка
+ 
+moose [muːs] — лось
+   
+bat [bæt] — летучая мышь  

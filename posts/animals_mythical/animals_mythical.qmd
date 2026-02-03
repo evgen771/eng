@@ -1,0 +1,30 @@
+---
+title: "Мифические животные - Mythical animals"
+date: "2026-02-03"
+categories: [news, animals]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "animals_mythical.jpg"
+---
+
+
+dragon [ˈdræɡən] — дракон
+   
+unicorn [ˈjuːnɪkɔːn] — единорог
+   
+griffin [ˈɡrɪfɪn] — грифон
+   
+phoenix [ˈfiːnɪks] — феникс
+  
+sphinx [sfɪŋks] — сфинкс
+  
+mermaid [ˈmɜːreɪd] — русалка
+    
+centaur [ˈsentɔː] — кентавр
+   
+kraken [ˈkrækən] — кракен
+   
+pegasus [ˈpeɡəsəs] — пегас
+ 
+minotaur [ˈmɪnətɔː] — минотавр

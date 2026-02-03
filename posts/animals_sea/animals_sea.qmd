@@ -1,0 +1,38 @@
+---
+title: "Морские животные - Sea animals"
+date: "2026-02-03"
+categories: [news, animals]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "animals_sea.jpg"
+---
+
+
+dolphin [ˈdɒlfɪn] — дельфин
+ 
+shark [ʃɑːk] — акула
+  
+seal [siːl] — тюлень
+  
+orca [ˈɔːkə] — косатка
+    
+walrus [ˈwɔːlrəs] — морж
+   
+octopus [ˈɒktəpəs] — осьминог
+   
+sea turtle [siː ˈtɜːtəl] — морская черепаха
+    
+whale [weɪl] — кит
+  
+clownfish [ˈklaʊnfɪʃ] — рыба-клоун
+    
+starfish [ˈstɑːrfɪʃ] — морская звезда
+    
+jellyfish [ˈdʒelɪfɪʃ] — медуза
+    
+seahorse [ˈsiːhɔːrs] — морской конёк
+ 
+crab [kræb] — краб
+  
+ray [reɪ] — скат
