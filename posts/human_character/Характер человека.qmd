@@ -1,0 +1,146 @@
+---
+title: "Характер человека"
+date: "2026-02-02"
+categories: [news,  about_the_man]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "human_character.jpg"
+---
+
+
+▪ Aggressive [əˈɡresɪv] - агрессивный, враждебный.
+
+▫ Agonized [ˈæɡənaɪzd] - отчаянный.
+
+▪ Anxious [ˈæŋkʃəs] - озабоченный, тревожный.
+
+▫ Apologetic [əpɒlə`dʒetɪk] - виноватый, извиняющийся.
+
+▪ Arrogant [ˈærəgənt] - надменный, высокомерный.
+
+▫ Bashful [`bæʃfʊl] - робкий, застенчивый.
+
+▪ Blissful [`blɪsfl] - счастливый, блаженный.
+
+▫ Bored [bɔ:d] - скучающий.
+
+▪ Cautious [`kɔːʃəs] - осторожный, осмотрительный.
+
+▫ Cold [kəuld] - неприветливый, безучастный.
+
+▪ Concentrating [ˈkɔnsəntreɪtiŋ] - сосредоточенный.
+
+▫ Confident [ˈkɔnfɪdənt] - уверенный, самонадеянный.
+
+▪ Curious [ˈkjuərɪəs] - любопытный.
+
+▫ Demure [dɪ`mjʊəː] - скромный, сдержанный.
+
+▪ Determined [dɪˈtə:mɪnd] - решительный.
+
+▫ Disappointed [ˌdɪsəˈpɔɪntɪd] - разочарованный.
+
+▪ Disapproving [dɪsəˈpru:vin] - неодобрительный.
+
+▫ Disbelieving [ˈdɪsbɪˈli:viŋ] - неверующий / скептик.
+
+▪ Disgusted [dɪs`gʌstɪd] - недовольный, раздражённый, чувствующий отвращение.
+
+▫ Distasteful [dɪsˈteɪstful] - неприятный.
+
+▪ Eavesdropping [ˈiːvzdrɒpɪŋ] - подслушивающий.
+
+▫ Ecstatic [ɛks`tætɪk] - восторженный, в экстазе.
+
+▪ Enraged [ɪn`reɪdʒd] - взбешенный, разъяренный.
+
+▫ Envious [ˈenvɪəs] - завистливый.
+
+▪ Exasperated [ɪg`zæspəreitɪd] - раздражённый, выведенный из себя.
+
+▫ Exhausted [ɪɡˈzɔ:stɪd] - изнурённый, измученный.
+
+▪ Frightened [ˈfraɪtnd] - напуганный, испуганный.
+
+▫ Frustrated [frʌs`treɪtid] - расстроенный, разочарованный.
+
+▪ Grieving [`ɡri:viŋ] - огорчённый, убитый горем.
+
+▫ Guilty [ˈɡɪltɪ] - виновный, виноватый.
+
+▪ Happy [ˈhæpɪ] - счастливый, довольный.
+
+▫ Horrified [`hɒrɪfaɪd] - шокированный, в ужасе.
+
+▪ Hot [hɔt] - разгорячённый, пылкий.
+
+▫ Hangover [ˈhæŋəuvə] - с похмелья.
+
+▪ Hurt [hə:t] - оскорблённый, пострадавший.
+
+▫ Hysterical [hɪsˈterɪkəl] - истеричный.
+
+▪ Indifferent [ɪnˈdɪfrənt] - безразличный.
+
+▫ Idiotic [ˌɪdɪˈɔtɪk] - идиотский, дурацкий.
+
+▪ Innocent [ˈɪnəsənt] - невинный, наивный, простак.
+
+▫ Interested [ˈɪntrɪstɪd] - заинтересованный, внимательный.
+
+▪ Jealous [ˈdʒeləs] - ревнивый.
+
+▫ Joyful [ˈdʒɔɪful] - радостный.
+
+▪ Loaded [ˈləudɪd] - нагруженный, обременённый чем-либо.
+
+▫ Lonely [ˈləunlɪ] - уединённый, одинокий.
+
+▪ Lovestruck [`lʌvstrʌk] - безумно влюбленный.
+
+▫ Meditative [`medɪtətɪv] - задумчивый.
+
+▪ Mischievous [`mɪstʃɪvəs] - вредный, озорной, непослушный.
+
+▫ Mserable [ˈmɪzərəbl] - несчастный, жалкий, презренный.
+
+▪ Negative [ˈneɡətɪv] - негативный, недоброжелательный.
+
+▫ Obstinate [ˈɒbstɪnət] - упрямый, настойчивый.
+
+▪ Optimistic [ˌɔptɪˈmɪstɪk] - оптимистичный, жизнерадостный.
+
+▫ Pained [peɪnd] - страдальческий, огорчённый, обиженный.
+
+▪ Paranoid [`pærənɔɪd] - параноик, не в своём уме.
+
+▫ Perplexed [pəp`lekst] - растерянный, озадаченный.
+
+▪ Prudish [`pruːdɪʃ] - ханжеский, лживый, неискренний.
+
+▫ Puzzled [ˈpʌzlid] - недоуменный, озадаченный.
+
+▪ Regretful [rɪˈɡretful] - раскаивающийся, полный сожаления.
+
+▫ Relieved [rɪˈli:vd] - облегчённый, разгруженный.
+
+▪ Sad [sæd] - печальный, грустный.
+
+▫ Satisfied [ˈsætɪsfaɪd] - удовлетворённый.
+
+▪ Shocked [ʃɔkt] - шокированный, потрясённый.
+
+▫ Smug [smʌg] - самодовольный.
+
+▪ Surly [`sɜːli] - угрюмый, хмурый.
+
+▫ Surprise [səˈpraɪzd] - удивлённый, изумлённый.
+
+▪ Suspicious [səs`pɪʃəs] - подозрительный.
+
+▫ Thoughtful [`θɔ:tful] - вдумчивый, погруженный в размышления.
+
+▪ Undecided [ˈʌndɪˈsaɪdɪd] - нерешительный, неуверенный.
+
+▫ Withdrawn [wɪð`drɔːn] - замкнутый, ушедший в себя.

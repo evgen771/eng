@@ -1,0 +1,120 @@
+---
+title: "Родственники"
+date: "2026-02-02"
+categories: [news,  about_the_man]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "relatives.jpg"
+---
+
+
+aunt [ант] — тетя
+
+baby [бэйби] — грудной ребенок
+
+boyfriend [бойфрэнд] — возлюбленный, молодой человек
+
+brother [бразэ] — брат
+
+brother-in-law [бразэ-ин-лоу] — зять / шурин
+
+child [чайлд] — ребенок
+
+children [чилдрэн] — дети
+
+cousin [казн] — двоюродный брат, двоюродная сестра
+
+dad [дэд] — папа
+
+daughter [дотэ] — дочь
+
+daughter-in-law [дотэ-ин-лоу] — невестка, сноха (жена сына)
+
+father [фазэ] — отец
+
+father-in-law [фазэ-ин-лоу] — свекор,тесть
+
+groom [грум] — жених
+
+bride [брайд] — невеста
+
+family [фэмэли] — семья
+
+foster child [фостэ] [чайлд] — приемыш
+
+foster father [фостэ] [фазэ] — приемный отец
+
+foster mother [фостэ] [мазэ] — приемная мать
+
+girlfriend [гёрлфрэнд] — возлюбленная, девушка
+
+godchild [годчайлд] — крестник, крестница
+
+goddaughter [годдотэ] — крестница
+
+godfather [годфазэ] — крестный отец
+
+godmother [годмазэ] — крестная мать
+
+godson [годсун] — крестник
+
+grandchild [грендчайлд] — внук, внучка
+
+granddaughter [грэнддотэ] — внучка
+
+grandfather [грэндфазэ] — дедушка
+
+grandmother [грэндмазэ] — бабушка
+
+grandson [грэндсан] — внук
+
+great granddaughter [грейт] [грэнддотэ] — правнучка
+
+great grandfather [грейт] [фазэ] — прадед
+
+great grandmother [грейт] [мазэ] — прабабушка
+
+great grandson [грейт] [сан] — правнук
+
+husband [хасбэнд] — муж
+
+mother [мазэ] — мать
+
+mother-in-law [мазэ-ин-лоу] — свекровь, теща
+
+mum [мам] — мама
+
+nephew [нэпью] — племянник
+
+parents [пэрэнтс] — родители
+
+relatives [релэйтивс] — родственники
+
+sister [систэ] — сестра
+
+sister-in-law [систэ-ин-лоу] — невестка / золовка / свояченица
+
+son [сан] — сын
+
+son-in-law [сан-ин-лоу] — зять (муж дочери)
+
+spouse [спаус] — супруг, супруга
+
+stepbrother [стэпбразэ] — сводный брат
+
+stepchild [стэпчайлд] — пасынок, падчерица
+
+stepdaughter [стэпдотэ] — падчерица
+
+stepfather [стэпфазэ] — отчим
+
+stepmother [стэпмазэ] — мачеха
+
+stepsister [стэпситэ] — сводная сестра
+
+stepson [стэпсан] — пасынок
+
+uncle [анкл] — дядя
+
+wife [вайф] — жена

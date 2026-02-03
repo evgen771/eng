@@ -1,0 +1,71 @@
+---
+title: "Симптомы заболеваний"
+date: "2026-02-02"
+categories: [news,  about_the_man]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "symptoms_of_diseases.jpg"
+---
+
+#### Symptoms of Diseases - Симптомы заболеваний
+
+бессонница - sleeplessness
+
+боль в боку - pain in a side
+
+боль в груди - pain in a chest
+
+боль в желудке - pain in a stomach
+
+боль в спине - pain in a back
+
+высокое кровяное давление - high blood pressure
+
+гной - pus
+
+головная боль - headache
+
+головокружение - dizziness
+
+горький вкус во рту - bitter taste in the mouth
+
+диарея, понос - diarrhea
+
+жжение - burning
+
+запор - constipation
+
+изжога - heartburn
+
+кашель - cough
+
+кровотечение - bleeding
+
+лихорадка - fever
+
+нарыв - abscess
+
+насморк - runny nose
+
+низкое кровяное давление - low blood pressure
+
+обморок - faint
+
+общее недомогание - queasiness
+
+одышка - short wind
+
+отсутствие аппетита - absence of appetite
+
+повреждение - injury
+
+синяк - bruise
+
+слабость - weakness
+
+сонливость - drowse
+
+сыпь, покраснение - rash
+
+тошнота - nausea

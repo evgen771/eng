@@ -1,0 +1,67 @@
+---
+title: " Болезни -  Illnesses"
+date: "2026-02-02"
+categories: [news,  about_the_man]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "illnesses.jpg"
+---
+
+
+Illnesses - Болезни
+
+аллергия - allergy
+
+ангина, тонзиллит - tonsillitis
+
+бронхит - bronchitis
+
+воспаление - inflammation
+
+вывих - dislocation, joint dislocation
+
+грипп - influenza
+
+дизентерия - dysentery
+
+заразное заболевание - contagious disease
+
+инсульт - stroke
+
+корь - measles
+
+ожог - burn
+
+опухоль - tumour
+
+оспа - smallpox
+
+перелом - break
+
+пищевое отравление - food poisoning
+
+пневмония - pneumonia
+
+простуда - cold
+
+психическое заболевание - mental disease
+
+рак - cancer
+
+расстройство желудка - disordered stomach
+
+сердечный приступ - heart attack
+
+скарлатина - scarlet fever
+
+спид - aids
+
+холера - cholera
+
+чума - plague
+
+язва - ulcer
+
+
+
