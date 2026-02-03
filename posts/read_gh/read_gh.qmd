@@ -1,0 +1,54 @@
+---
+title: " Правила чтения «GH»"
+date: "2026-02-02"
+categories: [news,  alphabet]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "read_gh.jpg"
+---
+
+
+📚Продолжаем разбираться, как это всё читается…
+
+🔹 Правило 1: GH не читается после гласной.
+
+Да-да, просто игнорим!
+
+Вот примеры:
+
+```
+thought |θɔːt| – мысль
+drought |draʊt| – засуха
+daughter |ˈdɔːtə| – дочь
+light |laɪt| – свет
+sigh |saɪ| – вздох
+weigh |weɪ| – взвешивать
+```
+
+☝🏻Исключения? Есть.
+
+Но их легко запомнить – они как конструктор из двух слов:
+
+doghouse |ˈdɒɡhaʊs| – конура (dog + house)(собака + дом)
+
+bighead |ˈbɪɡhed| – хвастун (big + head) (большой + голова)
+
+🔹 Правило 2: GH читается как [F]
+
+Внезапно, правда? Вот такие частые слова:
+
+```
+rough |rʌf| – неровный: rough road
+tough |tʌf| – жёсткий: tough meat
+laugh |lɑːf| – смеяться: laugh at a joke
+enough |ɪˈnʌf| – достаточно: old enough
+cough |kɒf| – кашель
+draught |drɑːft| – сквозняк
+```
+
+🔔 И на закуску – важное!
+
+**of читается как [ов], а не [оф]**
+
+*Запомните это!*
