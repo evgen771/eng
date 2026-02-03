@@ -1,0 +1,41 @@
+---
+title: "Вкус чего-то"
+date: "2026-02-03"
+categories: [news, food]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "taste.jpg"
+---
+
+
+горький - bitter
+
+нежный - bland
+
+сливочный, жирный - creamy
+
+хрустящий - crisp
+
+хрустящий - crunchy
+
+горячий - hot
+
+неострый, некрепкий, мягкий - mild
+
+соленый - salty
+
+пикантный - savo(u)ry
+
+тошнотворный - sickly
+
+кислый - sour
+
+острый - spicy
+
+густой - stodgy
+
+сладкий - sweet
+
+безвкусный - tasteless
+
