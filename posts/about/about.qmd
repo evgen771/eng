@@ -1,0 +1,54 @@
+---
+title: "Диалог о себе"
+date: "2026-02-05"
+categories: [news, about]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "about.jpg"
+---
+
+
+#### Диалог на английском о себе с переводом
+
+*Dialogue: Getting to Know Each Other*
+
+```html
+A: Hi! What’s your name?  
+B: Hello! My name is Alex. What about you?  
+A: I’m Maria. Nice to meet you, Alex!  
+B: Nice to meet you too, Maria! Where are you from?  
+A: I’m from Moscow, Russia. And you?  
+B: I’m from London, UK. How old are you, Maria?  
+A: I’m 25 years old. And you?  
+B: I’m 27. What do you do for a living?  
+A: I’m a graphic designer. I create logos and posters. It’s very creative and fun!  
+B: That sounds amazing! I work as a software engineer. I develop apps and websites.  
+A: Oh, that’s cool! Do you have any hobbies?  
+B: Yes, I enjoy playing the guitar and hiking. What about you?  
+A: I love reading books and painting. I also go to the gym three times a week.  
+B: That’s great! It’s nice to meet someone with similar interests.  
+A:Absolutely! It was nice talking to you, Alex.  
+B: Same here, Maria! Let’s keep in touch.
+```
+
+*Диалог: Знакомство друг с другом*
+
+```html
+А: Привет! Как тебя зовут?  
+Б: Привет! Меня зовут Алекс. А тебя?  
+А: Я Мария. Приятно познакомиться, Алекс!  
+Б: И мне приятно, Мария! Откуда ты?  
+А: Я из Москвы, Россия. А ты?  
+Б: Я из Лондона, Великобритания. Сколько тебе лет, Мария?  
+А: Мне 25 лет. А тебе?  
+Б: Мне 27. Чем ты занимаешься?  
+А: Я графический дизайнер. Создаю логотипы и плакаты. Это очень творчески и весело!  
+Б: Звучит потрясающе! Я работаю инженером-программистом. Разрабатываю приложения и сайты.  
+А: О, круто! У тебя есть хобби?  
+Б: Да, я люблю играть на гитаре и ходить в походы. А у тебя?  
+А: Я обожаю читать книги и рисовать. Ещё я хожу в спортзал три раза в неделю.  
+Б: Здорово! Приятно встретить человека с похожими интересами.  
+А: Абсолютно согласна! Было приятно пообщаться, Алекс.  
+Б: И мне, Мария! Давай оставаться на связи.
+```
