@@ -1,0 +1,91 @@
+---
+title: "Время суток"
+date: "2026-02-05"
+categories: [news, clock]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "clock.jpg"
+---
+
+#### What_time_is_it - Который час? Сколько времени?
+
+### Как спросить:
+
+What time is it? / What is the time? (Сколько времени?)
+
+Do you have the time? (Время / часы есть?)
+
+At what time? (Когда, во сколько?)
+
+Could you please tell me the time? (Время не подскажете?)
+
+### Как сказать:
+
+1. Официальный способ:
+
+Для минут в пределах: 01 – 09, “0″ обычно произносят так: [oh].
+
+`11:05 – eleven (oh) five`
+
+2. Более распространен разговорный вариант:
+
+Сначала говорят количество минут, а потом часов.
+
+Если речь идет о минутах от 01 до 20, то употребляют “past” и предшествующий час, если же от 31 до 59, то употребляют “to” и приближающийся час.
+
+`9.15 – fifteen minutes past nine`
+
+15 минут некоторого часа:
+
+`a quarter past`
+
+без 15ти минут:
+
+`a quarter to`
+
+половина некоторого часа:
+
+`half past`
+
+Половина четвертого:
+
+ `It’s half past three`
+
+Десять минут пятого:
+
+`It’s ten past four`
+
+Без четверти пять:
+
+`It’s quarter to five`
+
+`5:30 – half past five`
+
+3. O’clock употребляется, когда говорят о полном часе.
+           
+`7:00 – seven o’clock (но 7:10 – ten past seven)`
+
+`a.m. — [ei em], ante meridiem, до полудня`
+
+`p.m. — [pi em], post meridiem, после полудня`
+
+### Частота, периодичность:
+
+```
+никогда – never
+редко – rarely
+изредка – occasionally
+иногда – sometimes
+часто – often / frequently
+обычно – usually / normally
+всегда – always
+каждый день – every day
+ежедневно – daily
+каждую неделю – every week
+еженедельно – weekly
+каждый месяц – every month
+ежемесячно – monthly
+каждый год – every year
+ежегодно – yearly
+```
