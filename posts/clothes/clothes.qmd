@@ -1,7 +1,7 @@
 ---
 title: "Одежда"
 date: "2024-05-21"
-categories: [news, about_the_man]
+categories: [news, shopping]
 page-layout: full
 title-block-banner: false
 toc: true
