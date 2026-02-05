@@ -1,0 +1,45 @@
+---
+title: "День, год, сегодня, завтра..."
+date: "2026-02-01"
+categories: [news, calendar]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "day_year_today_tomorrow.jpg"
+---
+
+
+#### Время: день, год, сегодня, завтра...
+
+Сегодня — Today
+
+Послезавтра — Day after tomorrow
+
+Позавчера — Day before yesterday
+
+Рано — It is early
+
+Редко — Seldom
+
+Тогда — Then
+
+Часто — Often
+
+Только что — Just
+
+Каждый год — Every year
+
+На этой (прошлой, следующей) неделе — This (last, next) week
+
+Каждый день — Every day
+
+Через два дня — In two days
+
+Через неделю — In a week
+
+Через месяц — In a month
+
+Через год — In a year
+
+Через несколько лет — In a few years
+
