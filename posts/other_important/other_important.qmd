@@ -1,0 +1,43 @@
+---
+title: "Other_Important. Разное_Важное"
+date: "2026-02-05"
+categories: [news, other]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "other_important.jpg"
+---
+
+
+Важное — Important
+
+Life is fucking good (лайф из факинг гоод) | Жизнь чертовски хороша
+
+Recent [riːsnt] | Недавний
+
+Kind [kaɪnd] | тип, сорт,  Добрый, отчасти
+
+Type [taɪp] | тип, вид, шрифт, сорт, ввести, печатать, набрать, типовой
+
+Adjustmets [əˈʤʌstmənt] | Корректировки, настройки
+
+Actions [ækʃn] | Действия
+
+quality [ˈkwɒlɪtɪ]сущ | качество, уровень, уровень качества
+
+quality [ˈkwɒlɪtɪ]прил | качественный, высококачественный
+
+quality [ˈkwɒlɪtɪ]наречие | качественно
+
+identify [aɪˈdentɪfaɪ] | идентифицировать
+
+state | государство,  состояние , штат, утверждать, заявлять
+
+```
+Государство (политическая единица) – «The United States is a federal state» → «Соединённые Штаты — это федеративное государство»
+
+Состояние (физическое или эмоциональное) – «He was in a state of shock» → «Он был в состоянии шока.»
+Штат (административная единица в некоторых странах) – «California is a state in the USA» → «Калифорния — это штат в США»
+
+Утверждать, заявлять (глагол) – «She stated her opinion clearly» → «Она чётко заявила своё мнение.»
+```
