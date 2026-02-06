@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/request_permission/request_permission.html",
       "/posts/sorry/sorry.html",
       "/posts/spor/spor.html",
       "/posts/spor_2/spor_2.html",
