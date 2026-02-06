@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/driver/driver.html",
       "/posts/request_permission/request_permission.html",
       "/posts/sorry/sorry.html",
       "/posts/spor/spor.html",
