@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/sorry/sorry.html",
+      "/posts/spor/spor.html",
       "/posts/about/about.html",
       "/posts/clock/clock.html",
       "/posts/clothes_2/clothes_2.html",
