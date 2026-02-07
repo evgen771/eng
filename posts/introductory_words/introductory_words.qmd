@@ -1,5 +1,5 @@
 ---
-title: "Вводные выражения"
+title: "Вводные выражения (бытовые)"
 date: "2026-02-07"
 categories: [news, conversation]
 page-layout: full
@@ -111,3 +111,53 @@ Eventually — в конечном счете
 After all — в конце концов  
 
 Finally — наконец
+
+Ничего подобного — Nothing of the kind
+
+До некоторой степени — To a certain-extent
+
+Никто — Nobody
+
+Ни один, никто — No one
+
+Нигде — Nowhere
+
+Никогда — Never
+
+Почти — Almost
+
+Вряд ли — Hardly
+
+Вот и мы — Here we are !
+
+Очень приятно — Very nice
+
+Приятно было познакомиться — Nice to meet you
+
+Неплохо — Not bad
+
+Недурно — Not half bad
+
+Достаточно, хватит — That'll do; enough
+
+Это не подойдет — That won't do
+
+Я очень рад — I'm very glad
+
+Не беспокойтесь, не беда — It doesn't matter; never mind
+
+Мне все равно (по фигу) — No matter. I don't care
+
+Бесполезно — No go; no use; it's no use
+
+Без проблем — No problem
+
+Я не знаю — I don't know
+
+Понятия не имею — I haven't the slightest idea
+
+Не совсем с тобой согласен — I don't (quite) agree with you
+
+Совершенно согласен — I quite agree with you
+
+Не возражаю — I don't mind
