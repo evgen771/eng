@@ -1,0 +1,55 @@
+---
+title: "Короткие фразы"
+date: "2026-02-09"
+categories: [news, conversation]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "phrase_short.jpg"
+---
+
+
+
+May I ask you a question? | Можно задать вам вопрос?
+
+Next time lucky | Повезет в следующий раз
+
+Oh, that. That explains it | Вот оно что, это все объясняет
+
+Say it again, please | Повторите еще раз, пожалуйста
+
+So that’s where the trouble lies | Так вот в чем дело
+
+Things happen | Всякое бывает
+
+What do you mean? | Что вы имеете в виду?
+
+Did I get you right? | Я правильно вас понял?
+
+Don’t take it to heart | Не принимайте близко к сердцу
+
+I didn’t catch the last word | Я не понял последнее слово
+
+Sorry, I wasn’t listening | Извините, я прослушал
+
+It doesn’t matter | Это не имеет значения
+
+you didn't get it | ты не понял
+
+I don't get it | я не понимаю
+
+off we go! | поехали
+
+first of all | в первую очередь
+
+hang in there! | держись там
+
+listen up | послушайте
+
+I'm in | я в деле
+
+hang | вешать 
+
+there | там
+
+catch up | догоняй
