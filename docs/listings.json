@@ -2,6 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/phrase_transform/phrase_transform.html",
+      "/posts/phrase_used/phrase_used.html",
+      "/posts/phrase_useful/phrase_useful.html",
       "/posts/about_life/about_life.html",
       "/posts/introductory_words/introductory_words.html",
       "/posts/stable_expressions/stable_expressions.html",
